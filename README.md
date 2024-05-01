@@ -7,7 +7,7 @@
 | <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=lumenpearson&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true" alt="Lumen Pearson's GitHub Stats" /></a> | <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumenpearson&layout=donut&theme=nightowl&hide_border=true" alt="Lumen Pearson's Top Langs" /></a> |
 | ------------- | ------------- |
 
-## 🔮 𝙼𝚢 𝚂𝚝𝚊𝚌𝚔: 
+## 🔮 𝐌𝐲 𝐒𝐭𝐚𝐜𝐤:
 
 ##### 🪄 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -76,7 +76,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-## 🔥 𝚂𝚝𝚛𝚎𝚊𝚔 𝚂𝚝𝚊𝚝𝚜:
+## 🔥 𝐒𝐭𝐫𝐞𝐚𝐤 𝐒𝐭𝐚𝐭𝐬:
 
 <p align="center">
   <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lumenpearson&theme=nightowl&hide_border=true" alt="Lumen Pearson's Streak Stats" /></a>
