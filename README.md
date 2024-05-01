@@ -76,7 +76,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-## 🌠 Streak Stats:
+## 🔥 Streak Stats:
 
 <p align="center">
   <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lumenpearson&theme=nightowl&hide_border=true" alt="Lumen Pearson's Streak Stats" /></a>
