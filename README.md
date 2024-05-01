@@ -6,10 +6,18 @@
 
 -------
 
-<p align="center">
-  <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=lumenpearson&show_icons=true&theme=nightowl&rank_icon=github&include_all_commits=true&hide_border=true" alt="Lumen Pearson's GitHub Stats" /></a>
-  <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lumenpearson&theme=nightowl&hide_border=true" alt="Lumen Pearson's Streak Stats" /></a>
-</p>
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/lumenpearson?tab=repositories">
+                <img src="https://github-readme-stats.vercel.app/api/?username=lumenpearson&show_icons=true&theme=nightowl&rank_icon=github&include_all_commits=true&hide_border=true" alt="Lumen Pearson's GitHub Stats" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/lumenpearson?tab=repositories">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=lumenpearson&theme=nightowl&hide_border=true" alt="Lumen Pearson's Streak Stats" /></a>
+        </td>
+    </tr>
+</table>
 
 ##
 
