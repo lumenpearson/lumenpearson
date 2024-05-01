@@ -76,4 +76,6 @@
 
 ##
 
-<a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lumenpearson&theme=nightowl&hide_border=true" alt="Lumen Pearson's Streak Stats" /></a>
+<p align="center">
+  <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lumenpearson&theme=nightowl&hide_border=true" alt="Lumen Pearson's Streak Stats" /></a>
+</p>
