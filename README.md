@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/lumenpearson?tab=repositories" align="center"><img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumenpearson&layout=donut-vertical&theme=nightowl&hide_border=true&langs_count=10" alt="Lumen Pearson's Top Langs" /></a>
-  <a href="https://github.com/lumenpearson?tab=repositories" align="center"><img width="60%" align="right" src="https://github-readme-stats.vercel.app/api/?username=lumenpearson&show_icons=true&theme=nightowl&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" alt="Lumen Pearson's GitHub Stats" /></a>
+  <a href="https://github.com/lumenpearson?tab=repositories" align="center"><img width="58%" align="right" src="https://github-readme-stats.vercel.app/api/?username=lumenpearson&show_icons=true&theme=nightowl&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" alt="Lumen Pearson's GitHub Stats" /></a>
 </p>
 
 <a href="https://github.com/lumenpearson?tab=repositories"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lumenpearson&theme=nightowl&hide_border=true" alt="Lumen Pearson's Streak Stats" /></a>
