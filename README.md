@@ -4,30 +4,17 @@
   </a>
 </p>
 
--------
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/lumenpearson?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/?username=lumenpearson&show_icons=true&theme=nightowl&rank_icon=github&include_all_commits=true&hide_border=true" alt="Lumen Pearson's GitHub Stats" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lumenpearson?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lumenpearson&theme=nightowl&hide_border=true" alt="Lumen Pearson's Streak Stats" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumenpearson&layout=donut&theme=nightowl&hide_border=true&langs_count=10" alt="Lumen Pearson's Top Langs" /></a>
-    </td>
-    <td align="center">
-    </td>
-  </tr>
-</table>
-
-##
-
 > [!NOTE]\
 > 𝙷𝚎𝚕𝚕𝚘! 👋 𝙸'𝚖 𝚊 𝚋𝚎𝚐𝚒𝚗𝚗𝚎𝚛 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚒𝚗𝚐 𝚒𝚗 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝.
+
+-------
+
+<p align="center">
+  <a href="https://github.com/lumenpearson?tab=repositories" align="center"><img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/?username=lumenpearson&show_icons=true&theme=nightowl&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" alt="Lumen Pearson's GitHub Stats" /></a>
+  <a href="https://github.com/lumenpearson?tab=repositories" align="center"><img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumenpearson&layout=donut-vertical&theme=nightowl&hide_border=true&langs_count=10" alt="Lumen Pearson's Top Langs" /></a>
+</p>
+
+<a href="https://github.com/lumenpearson?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lumenpearson&theme=nightowl&hide_border=true" alt="Lumen Pearson's Streak Stats" /></a>
 
 -------
 
