@@ -81,14 +81,3 @@
 <p align="center">
   <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lumenpearson&theme=nightowl&hide_border=true" alt="Lumen Pearson's Streak Stats" /></a>
 </p>
-
-## 🌟 𝚃𝚘𝚙 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜:
-
-<p align="center">
-  <a href="https://github.com/lumenpearson?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl" />
-  </a>
-  <a href="https://github.com/lumenpearson?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=nightowl" />
-  </a>
-</p>
