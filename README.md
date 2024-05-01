@@ -7,10 +7,8 @@
 
 <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lumenpearson&theme=nightowl&hide_border=true" alt="Lumen Pearson's Streak Stats" /></a>
 
-<br />
-
-### Hello! 👋 I'm a beginner developer with experience in web development, specializing in Python and JavaScript.
-
+##
+## Hello! 👋 I'm a beginner developer with experience in web development, specializing in Python and JavaScript.
 
 #### 🪄 Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
