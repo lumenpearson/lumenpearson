@@ -5,7 +5,11 @@
 ##
 
 > [!NOTE]\
-> 𝙷𝚎𝚕𝚕𝚘! 👋 𝙸'𝚖 𝚊 𝚋𝚎𝚐𝚒𝚗𝚗𝚎𝚛 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚒𝚗𝚐 𝚒𝚗 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝.
+> Hello! 👋 I'm a beginner developer with experience in web development, specializing in Python and JavaScript.
+> 
+> My goal is to become a sought-after specialist in web development, possessing deep knowledge in both front-end and back-end development. I aim to develop my skills and create quality software solutions that can effectively solve real-world problems.
+> 
+> I'm ready to share experiences and learn new things to become a professional capable of creating innovative web applications and working with various technological stacks.
 
 -------
 
