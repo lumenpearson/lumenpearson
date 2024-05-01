@@ -13,9 +13,13 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumenpearson&layout=donut&theme=nightowl&hide_border=true" alt="Lumen Pearson's Top Langs" /></a>
 </p>
 
+##
+
 <p align="center">
   <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lumenpearson&theme=nightowl&hide_border=true" alt="Lumen Pearson's Streak Stats" /></a>
 </p>
+
+##
 
 <h4 align="center">
   𝙷𝚎𝚕𝚕𝚘! 👋 𝙸'𝚖 𝚊 𝚋𝚎𝚐𝚒𝚗𝚗𝚎𝚛 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚒𝚗𝚐 𝚒𝚗 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝.
