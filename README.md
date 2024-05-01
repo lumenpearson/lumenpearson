@@ -5,8 +5,7 @@
 | <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=lumenpearson&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true" alt="Lumen Pearson's GitHub Stats" /></a> | <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumenpearson&layout=donut&theme=nightowl&hide_border=true" alt="Lumen Pearson's Top Langs" /></a> |
 | ------------- | ------------- |
 
-##
-## Hello! 👋 I'm a beginner developer with experience in web development, specializing in Python and JavaScript.
+##### Hello! 👋 I'm a beginner developer with experience in web development, specializing in Python and JavaScript.
 
 #### 🪄 Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
