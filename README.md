@@ -1,11 +1,20 @@
 <p align="center"><a href="https://github.com/lumenpearson?tab=repositories"><img width="80%" alt="Lumen Pearson's Profile Header" src="./assets/gh-readme-header.png" /></a></p>
 
-#### 𝙷𝚎𝚕𝚕𝚘! 👋 𝙸'𝚖 𝚊 𝚋𝚎𝚐𝚒𝚗𝚗𝚎𝚛 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚒𝚗𝚐 𝚒𝚗 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝.
+-------
 
-## 👾 𝐁𝐚𝐬𝐢𝐜 𝐒𝐭𝐚𝐭𝐬:
+<p align="center">
+  <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=lumenpearson&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true" alt="Lumen Pearson's GitHub Stats" /></a>
+  <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumenpearson&layout=donut&theme=nightowl&hide_border=true" alt="Lumen Pearson's Top Langs" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lumenpearson&theme=nightowl&hide_border=true" alt="Lumen Pearson's Streak Stats" /></a>
+</p>
 
-| <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=lumenpearson&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true" alt="Lumen Pearson's GitHub Stats" /></a> | <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumenpearson&layout=donut&theme=nightowl&hide_border=true" alt="Lumen Pearson's Top Langs" /></a> |
-| ------------- | ------------- |
+<h4 align="center">
+  𝙷𝚎𝚕𝚕𝚘!<wbr>👋 𝙸'𝚖 𝚊 𝚋𝚎𝚐𝚒𝚗𝚗𝚎𝚛 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚒𝚗𝚐 𝚒𝚗 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝.
+</h4>
+
+-------
 
 ## 🔮 𝐌𝐲 𝐒𝐭𝐚𝐜𝐤:
 
@@ -76,8 +85,4 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-## 🔥 𝐒𝐭𝐫𝐞𝐚𝐤 𝐒𝐭𝐚𝐭𝐬:
-
-<p align="center">
-  <a href="https://github.com/lumenpearson?tab=repositories"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lumenpearson&theme=nightowl&hide_border=true" alt="Lumen Pearson's Streak Stats" /></a>
-</p>
+-------
