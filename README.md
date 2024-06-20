@@ -9,12 +9,15 @@
 
 <h1 align="center">🍃 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬:</h1>
 
-<p align="center">
-  <a href="https://github.com/lumenpearson?tab=repositories" align="center"><img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumenpearson&layout=donut-vertical&theme=synthwave&hide_border=true&langs_count=10" alt="Lumen Pearson's Top Langs" /></a>
-  <a href="https://github.com/lumenpearson?tab=repositories" align="center"><img width="58%" align="right" src="https://github-readme-stats.vercel.app/api/?username=lumenpearson&show_icons=true&theme=synthwave&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" alt="Lumen Pearson's GitHub Stats" /></a>
-</p>
+<div class="stats" align="center">
 
-<a href="https://github.com/lumenpearson?tab=repositories"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lumenpearson&theme=synthwave&hide_border=true" alt="Lumen Pearson's Streak Stats" /></a>
+![GitHub Streak](https://streak-stats.demolab.com?user=lumenpearson&count_private=true&theme=synthwave&border_radius=20)
+
+![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lumenpearson&hide=stars&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&border_radius=20) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumenpearson&layout=compact&show_icons=true&theme=synthwave&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 -------
 
